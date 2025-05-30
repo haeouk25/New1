@@ -5,5 +5,23 @@ public class Main {
         int age = 25;
 
         System.out.println(age);
+
+        age = 26;
+
+        System.out.println(age);
+
+        float pi = 3.14f;
+
+        System.out.println(pi);
+
+        double salary = 50000.75;
+
+        System.out.println(salary);
+
+        String name = "정해욱";
+
+        System.out.println(name);
+
+
     }
 }
